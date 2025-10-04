@@ -1,0 +1,5 @@
+cd path/to/trendkartt
+git init
+git remote add origin https://github.com/tanmaymehta345-hub/trendkartt.git
+git.add
+git commit -m "Initial commit: uploaded TrendKartt files"
